@@ -25,4 +25,4 @@ To Deploy a sample  Go API to AWS Lambda and API Gateway
 
 9.Add API Keys-->we need to create usage plans
               -->Once API Key is created and assigned to an usage plan, we only need to pass it on our request as   a header with the name x-api-key.
-     
+ 10.for detailed walkthrough refer-:   https://asanchez.dev/blog/deploy-api-go-aws-lambda-gateway/ 
